@@ -1,7 +1,7 @@
 # Kotlin
 
-This is the Template Repl for Kotlin. 
+Cour sur la programmation procédurale en Kotlin.
 
-Kotlin is a statically typed programming language interoperable with Java and Android
+Illustration et utilisation des __listes__.
 
-[Check out the official docs here](https://kotlinlang.org/docs/home.html).
+Création d'une fonction _inverse_ qui permet d'inverser les lettres dans une chaîne de caractère.
