@@ -11,6 +11,9 @@ fun inverse(x: String): String {
 fun main() {
   println(inverse("Julien Perrin"))
 
+  val liste = listOf("Carine Laroque", "Isabelle Meugnier", "Mia Meugnier")
 
+  for (i in liste) {
+    println(inverse(i))
   }
 }
